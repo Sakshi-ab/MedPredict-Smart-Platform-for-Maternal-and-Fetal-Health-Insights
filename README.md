@@ -1,1 +1,0 @@
-# MedPredict-Smart-Platform-for-Maternal-and-Fetal-Health-Insights
