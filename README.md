@@ -1,9 +1,12 @@
 <h1> MedPredict – Smart Platform for Maternal and Fetal Health Insights </h1>
-Overview
-Welcome to MedPredict, a cutting-edge application designed to support maternal and fetal well-being through predictive healthcare solutions. MedPredict assists medical professionals and users by offering reliable insights and early warnings for pregnancy-related health concerns.
+<h2>Introduction</h2>
+<br>Welcome to MedPredict, a cutting-edge application designed to support maternal and fetal well-being through predictive healthcare solutions. MedPredict assists medical professionals and users by offering reliable insights and early warnings for pregnancy-related health concerns. </br>
 
 Web Application
-Access MedPredict here: MedPredict Webapp
+<br> Access MedPredict here: https://medpredict-smart-platform.streamlit.app/ </br>
+
+ <h2 style="border-bottom: 1px solid #444; padding-bottom: 5px; color: white; background-color: #0d0f13;">Key Features</h2>
+
 
 Core Features
 Pregnancy Risk Assessment: Using sophisticated machine learning models, our system evaluates vital health indicators such as maternal age, glucose levels, and blood pressure to forecast pregnancy risks and help in timely intervention.
@@ -13,7 +16,7 @@ Fetal Health Monitoring: By analyzing cardiotocogram (CTG) data, a low-cost and 
 Interactive Dashboard: The intuitive dashboard offers a comprehensive view of all predictive outputs. Designed with user-friendliness in mind, it allows for effortless navigation and effective data interpretation by both medical staff and expectant mothers.
 
 Webapp URL
-<br> MedPredict: https://medpredict-smart-platform.streamlit.app/  </br>
+<br> MedPredict:   </br>
 
 
 
