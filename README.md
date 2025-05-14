@@ -1,8 +1,8 @@
 <h1> MedPredict – Smart Platform for Maternal and Fetal Health Insights </h1>
 <h2>Introduction</h2>
 <br>Welcome to MedPredict, a cutting-edge application designed to support maternal and fetal well-being through predictive healthcare solutions. MedPredict assists medical professionals and users by offering reliable insights and early warnings for pregnancy-related health concerns. </br>
-
-Web Application
+<br>
+<h3>Web Application URL </h3>
 <br> Access MedPredict here: https://medpredict-smart-platform.streamlit.app/ </br>
 
  <h2 style="border-bottom: 1px solid #444; padding-bottom: 5px; color: white; background-color: #0d0f13;">Key Features</h2>
