@@ -35,15 +35,18 @@ Here’s how to get started with the local setup:
 <h3> Clone the Repository </h3> 
 <pre style="background-color: #161b22; color: #ffffff; padding: 12px; border-radius: 6px; font-family: monospace; font-size: 14px; overflow-x: auto;">
 git clone https://github.com/your-username/medpredict.git
-<br> cd medpredict
+<br>cd medpredict
 </pre>
 
 <h3> Install Required Libraries </h3>
-
+<pre style="background-color: #161b22; color: #ffffff; padding: 12px; border-radius: 6px; font-family: monospace; font-size: 14px; overflow-x: auto;">
 pip install -r requirements.txt
+</pre>
+
 
 <h3> Run the Streamlit Application </h3> 
-
+<pre style="background-color: #161b22; color: #ffffff; padding: 12px; border-radius: 6px; font-family: monospace; font-size: 14px; overflow-x: auto;">
 streamlit run main.py
+</pre>
 
 This command will start the Streamlit server. Open the URL shown in your terminal to use MedPredict locally.
