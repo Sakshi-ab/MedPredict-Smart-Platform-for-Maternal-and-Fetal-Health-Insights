@@ -13,7 +13,7 @@ Fetal Health Monitoring: By analyzing cardiotocogram (CTG) data, a low-cost and 
 Interactive Dashboard: The intuitive dashboard offers a comprehensive view of all predictive outputs. Designed with user-friendliness in mind, it allows for effortless navigation and effective data interpretation by both medical staff and expectant mothers.
 
 Webapp URL
-MedPredict: https://medpredict-smart-platform.streamlit.app/
+<br> MedPredict: https://medpredict-smart-platform.streamlit.app/  </br>
 
 
 
