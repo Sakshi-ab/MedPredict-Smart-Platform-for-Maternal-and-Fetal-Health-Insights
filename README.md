@@ -15,9 +15,6 @@ Fetal Health Monitoring: By analyzing cardiotocogram (CTG) data, a low-cost and 
 
 Interactive Dashboard: The intuitive dashboard offers a comprehensive view of all predictive outputs. Designed with user-friendliness in mind, it allows for effortless navigation and effective data interpretation by both medical staff and expectant mothers.
 
-Webapp URL
-<br> MedPredict:   </br>
-
 
 
 <table>
@@ -32,19 +29,20 @@ Webapp URL
 </table>
 
 
-How to Launch the Streamlit App Locally
+<h2> How to Launch the Streamlit App Locally </h2>
 Here’s how to get started with the local setup:
 
-Step 1: Clone the Repository
-
+<h3> Clone the Repository </h3> 
+<pre style="background-color: #161b22; color: #ffffff; padding: 12px; border-radius: 6px; font-family: monospace; font-size: 14px; overflow-x: auto;">
 git clone https://github.com/your-username/medpredict.git
-cd medpredict
+<br> cd medpredict
+</pre>
 
-Step 2: Install Required Libraries
+<h3> Install Required Libraries </h3>
 
 pip install -r requirements.txt
 
-Step 3: Run the Application
+<h3> Run the Streamlit Application </h3> 
 
 streamlit run main.py
 
